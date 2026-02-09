@@ -1,4 +1,4 @@
-# HybridACC : EL2450 Hybrid and Embedded Control Systems
+# HybridACC : EL2450 Hybrid Adaptive Cruise Control (ACC) system
 
 This project implements a Hybrid Adaptive Cruise Control (ACC) system for [KTH Royal Institute of Technology : EL2450 Hybrid and Embedded Control Systems](https://www.kth.se/student/kurser/kurs/EL2450). It models the continuous dynamics of two vehicles (Lead and Ego) and a discrete hybrid controller that switches between different modes of operation.
 
